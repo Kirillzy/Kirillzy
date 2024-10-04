@@ -1,6 +1,7 @@
-- Hi, I’m Kirillzy
+- Hi, I’m Kirill
 - I'm interested in Computer Science and have started a degree for it
-- Currently learning Python/C/C++ and hope to make some projects that I can share
+- Currently learning Python, C/C++, and Java
+- Hopefully I will make more projects that I can share
 - How to reach me: Kirillzy.09@gmail.com
 
 <!---
